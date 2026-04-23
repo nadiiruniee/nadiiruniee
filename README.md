@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Nadiyah Khoirunnisa</h1>
-<h3 align="center">Future AI Engineer | Aspiring International Student 🌍</h3><p align="center">
+<h1 align="center">Hi 👋, I'm Nadiyah Khoirunnisa Purwalilananda</h1>
+<h3 align="center">Future AI Engineer | Aspiring International Student </h3><p align="center">
   <img src="https://komarev.com/ghpvc/?username=nadiiruniee&label=Profile%20views&color=0e75b6&style=flat" alt="nadiiruniee" />
 </p>---
 
 🌟 About Me
 
-- 🎓 Passionate about Artificial Intelligence & Technology
-- 🌍 Preparing for international university (Vision 2030 aligned)
-- 💡 Currently learning programming & web development
-- 🚀 Highly motivated to build impactful solutions
+- Passionate about Artificial Intelligence & Technology
+- Preparing for international university (Vision 2030 aligned)
+- Currently learning programming & web development
+- Highly motivated to build impactful solutions
 
 ---
 
 🎯 Goals
 
-- 🤖 Study Artificial Intelligence
-- 🌍 Contribute to global tech innovation
-- 🏆 Join international university (PNU target)
-- 💼 Build real-world AI projects
+- Study Artificial Intelligence
+- Contribute to global tech innovation
+- Join international university (Middle East University target)
+- Build real-world AI projects
 
 ---
 
@@ -39,17 +39,17 @@
 
 🏆 Achievements
 
-- 📄 Paket C Graduate — Score: 82
-- 📊 Math: 82.33
-- 🌐 English: 77
-- 🕌 Ma’had Certificate: 90
+- Paket C Graduate — Score: 82 / 100
+- Math: 82.33 / 100
+- English: 77 / 100
+- Ma’had Certificate: 90 / 100
 
 ---
 
 🌐 Languages
 
-- 🇮🇩 Indonesian (Native)
-- 🇬🇧 English (Improving)
+- Indonesian (Native)
+- English (Improving)
 
 ---
 
