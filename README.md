@@ -1,76 +1,42 @@
-<h1 align="center">Hi 👋, I'm Nadiyah Khoirunnisa Purwalilananda</h1>
-<h3 align="center">Future AI Engineer | Aspiring International Student </h3><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadiiruniee&label=Profile%20views&color=0e75b6&style=flat" alt="nadiiruniee" />
-</p>---
+# Hi 👋, I'm Nadi
 
-🌟 About Me
-
-- Passionate about Artificial Intelligence & Technology
-- Preparing for international university (Vision 2030 aligned)
-- Currently learning programming & web development
-- Highly motivated to build impactful solutions
+🎓 Informatics Student at Politeknik IDN  
+🌏 Aspiring AI Engineer | Dreaming of studying at PNU
 
 ---
 
-🎯 Goals
+## 🙋 About Me
 
-- Study Artificial Intelligence
-- Contribute to global tech innovation
-- Join international university (Middle East University target)
-- Build real-world AI projects
+I'm a student who genuinely believes AI can solve real problems —
+not just as a trend, but as a tool to create meaningful impact.
+Currently building my foundation in tech while keeping my eyes
+on a bigger goal: studying AI at an international university.
 
 ---
 
-💻 Skills
+## 💻 Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Programming-grey?style=for-the-badge"/>
-</p>---
-
-📚 Currently Learning
-
-- Web Development
 - Laravel
 - Flutter
-- Tailwind CSS 
+- Tailwind CSS
+- HTML & CSS
 
 ---
 
-🏆 Achievements
+## 🌐 Languages
 
-- Paket C Graduate — Score: 82 / 100
-- Math: 82.33 / 100
-- English: 77 / 100
-- Ma’had Certificate: 90 / 100
-
----
-
-🌐 Languages
-
-- Indonesian (Native)
-- English (Improving)
+- 🇮🇩 Indonesian — Native
+- 🇬🇧 English — Beginner
+- 🇸🇦 Arabic (Formal) — Beginner
 
 ---
 
-📫 Connect with me
+## 🎯 Goals
 
-<p>
-<a href="https://github.com/nadiiruniee" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" />
-</a>
-</p>---
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadiiruniee&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadiiruniee&theme=tokyonight" />
-</p>---
-
-✨ Motto
-
-«“Learning today, leading tomorrow in Artificial Intelligence.”»
+- Master AI and use it to solve real-world problems
+- Study at Princess Nourah University (PNU)
+- Build projects that actually matter
 
 ---
+
+✨ *"I don't just want to learn AI — I want to use it to make things better."*
