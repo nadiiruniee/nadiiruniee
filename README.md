@@ -35,8 +35,8 @@ on a bigger goal: studying AI at an international university.
 
 - Master AI and use it to solve real-world problems
 - Study at Princess Nourah University (PNU)
-- Build projects that actually matter
+- Build projects that impact on world
 
 ---
 
-✨ *"I don't just want to learn AI — I want to use it to make things better."*
+✨ *"Don't just want to learn AI — I want to use it to make things better."*
