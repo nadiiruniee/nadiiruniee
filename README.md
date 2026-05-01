@@ -32,8 +32,9 @@
 📚 Currently Learning
 
 - Web Development
-- Python (soon)
-- AI Fundamentals
+- Laravel
+- Flutter
+- Tailwind CSS 
 
 ---
 
